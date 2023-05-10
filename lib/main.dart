@@ -45,7 +45,9 @@ void main() {
           SizedBox(
             height: 200,
           ),
-          Text('DATE SET GO')
+          Text('DATE SET GO'),
+          Text('DATE SET GO'),
+
         ],
       ),
     ),
